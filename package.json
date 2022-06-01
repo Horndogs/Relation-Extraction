@@ -4,4 +4,6 @@
   "private": true,
   "dependencies": {
     "jest-dom": "^1.11.0",
-    "react": "^
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router
