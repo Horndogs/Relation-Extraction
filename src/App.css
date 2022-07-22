@@ -1,0 +1,21 @@
+
+/*Resume*/
+
+.resume {
+  text-decoration: none;
+  color: black
+}
+
+
+.navLinks a:hover {
+  transform: translateY(-5px);
+  transition-timing-function: ease-in-out;
+  transition-duration: .25s;
+}
+
+/* Nav */
+
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
