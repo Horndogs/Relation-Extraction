@@ -19,3 +19,62 @@ nav {
   display: flex;
   flex-direction: column;
   align-items: center;
+  height: auto;
+  border-bottom: 1px solid black;
+  margin: 0px;
+}
+
+/* font-family: 'Roboto Slab', serif; */
+
+.myName {
+  color: #EF4907;
+  font-size: 3.7em;
+  font-weight: 300;
+  margin: 20px 0 0 0;
+  font-family: 'Roboto Slab', serif;
+  text-align: center
+}
+
+.blog-links {
+  color: #00BFB2;
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: 600
+}
+
+.blog{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.blerb {
+  height: 150px;
+  width: 310px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  margin: 20px
+}
+
+.blerbHeader {
+  background-color: lightgray;
+  height: 75px;
+  width: 310px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.75em;
+
+
+}
+
+
+.email {
+  font-weight: 400;
+  font-size: .75em
