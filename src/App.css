@@ -78,3 +78,55 @@ nav {
 .email {
   font-weight: 400;
   font-size: .75em
+}
+
+.email div {
+  margin: 10px 0 0 0;
+}
+
+
+.navLinks {
+  display: flex;
+  width: 100vw;
+  justify-content: space-around;
+  margin: 10px 0px;
+  align-items: baseline
+}
+
+.navLinks a {
+  text-decoration: none;
+  margin: 0px;
+  font-size: 1em;
+  font-weight: 600;
+  color: black;
+}
+
+.navLinks:active {
+  color: #EF4907
+}
+
+.byLine {
+  margin: 0;
+  margin-top: 10px;
+  font-size: 1.2em;
+  font-family: 'Roboto Slab', serif;
+  text-align: center
+}
+
+.social {
+  font-size: .5em;
+  width: 13vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+i {
+  font-size: 2.5em;
+  color: black;
+  margin-top: 10px;
+}
+
+iframe {
+  margin-top: 15px 0
+}
