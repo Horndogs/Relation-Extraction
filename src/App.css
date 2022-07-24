@@ -179,3 +179,66 @@ iframe {
 
 
 /* Projects */
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+}
+
+.visit {
+  color: #EF4907;
+  margin-bottom: 10px;
+}
+
+.visit:hover {
+  transform: translateY(-5px);
+  transition-timing-function: ease-in-out;
+  transition-duration: .25s;
+}
+
+.projects span {
+  max-width: 350px;
+  min-width: 200px;
+  margin: 10px 0
+}
+
+.projectLinks {
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
+.displayBox {
+  border-bottom: 1px solid black;
+  text-align: center;
+  margin: 0
+}
+
+.role {
+  font-weight: 400
+}
+
+.projectPhoto {
+  /* width: 350px; */
+  max-width: 350px;
+  min-width: 200px;
+  border: 1px solid black;
+}
+
+.projectHeader {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2.5em;
+  margin: 30px 0
+
+}
+
+.logos {
+  width: 50px;
+  margin-bottom: 40px
+}
+
+
+/* footer */
