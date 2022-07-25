@@ -41,3 +41,22 @@ class App extends Component {
           </div>
         </nav>
         <div className='App' >
+          <Switch>
+            <Route exact path='/home' component={MyInfo} />
+            <Route exact path='/projects' component={Projects} />
+            <Redirect from='/' to='/home'/>
+          </Switch>
+        </div>
+        <footer/>
+      </div>
+      </Router>)
+    }
+}
+
+export default App;
+
+
+
+{/*  */}
+
+
