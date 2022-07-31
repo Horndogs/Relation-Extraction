@@ -10,4 +10,5 @@ it('renders without crashing', () => {
 });
 
 
-it('renders welc
+it('renders welcome message', () => {
+  const { getByText
