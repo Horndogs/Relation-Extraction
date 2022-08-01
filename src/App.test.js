@@ -11,4 +11,5 @@ it('renders without crashing', () => {
 
 
 it('renders welcome message', () => {
-  const { getByText
+  const { getByText } = render(<App />);
+  expect(getByText('
