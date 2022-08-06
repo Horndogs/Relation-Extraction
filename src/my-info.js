@@ -27,3 +27,21 @@ class MyInfo extends Component {
 
 
                 <span className='hello'>-Mary</span><br/><br/>
+
+                <img src={card}/>
+                <p>some praise from my time as a fellow</p><br/><br/>
+
+                <iframe width="350" height="197" src="https://www.youtube.com/embed/1caGbJbt7yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p>Fun fact about me, I love oysters!  I made this video to demonstrate my shucking technique.</p>
+
+
+                </div>
+          </div>);
+    }
+  }
+
+
+
+    export default MyInfo;
+
+
