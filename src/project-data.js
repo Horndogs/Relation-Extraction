@@ -34,3 +34,33 @@ const projects = {
       name: 'Words in Motion',
       main: 'An app combining the Oxford English Dictionary with CSS animations.  I wanted to explore using UI motion to enhance user experience.  I built Words in Motion over the course of 4 days for a hackathon, and won the user interface design award.',
       repo: '',
+      link: ''
+    },
+    guessing: {
+      name: 'Guessing Game',
+      main: 'this was the first project I ever wrote in Javascript, it was the final project of my pre-coursework at Fullatack.',
+      img: guess,
+      repo: 'https://github.com/maubertw/guessingGame',
+      link: 'https://maubertw.github.io/guessingGame/'
+    },
+    funSquares: {
+      name: 'Fun Squares',
+      main: 'When I had my review week between Jr and Sr phase at Fullstack I made a simple app using React Native called Fun Squares.'
+    },
+    personalSite: {
+      name: 'Personal Website',
+      main: 'With the help of Create React App, I have been through 3 radically different ideations of this website.  After beta-testing the second version with users, I discovered issues with mobile responsiveness that lead me to the third redesign that you are interacting with now.  I am quite fond of the art that I made for version 2, however.',
+      img: mine,
+      repo: 'https://github.com/maubertw/my-site',
+      link: 'www.marywarrick.com/home'
+    },
+    mash: {
+      name: 'M.A.S.H.',
+      main: 'After a few Code Academy tutorials I was ready for my first serious dip into real coding.  I enrolled in a night class at Hackbright academy in San Francisco, where I was cooking pizza at the time!  This was my final project for that class - a simple little command line game in Python.  After graduating I knew I was ready for a full time bootcamp.',
+      img: hackbright,
+      repo: 'https://github.com/maubertw/MASH',
+      link: 'https://github.com/maubertw/MASH',
+    }
+  }
+
+  export default projects
