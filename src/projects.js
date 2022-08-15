@@ -7,3 +7,5 @@ import css from './images/logos/css.png'
 import express from './images/logos/express.png'
 import javascript from './images/logos/javascript.png'
 import neo4j from './images/logos/neo4j.png'
+import node from './images/logos/node.png'
+impo
