@@ -12,4 +12,5 @@ import react from './images/logos/react.png'
 import redux from './images/logos/redux.png'
 import sequelize from './images/logos/sequelize.png'
 import python from './images/logos/python.png'
-import jquery from './image
+import jquery from './images/logos/jquery.png'
+import coinbase from './images/logo
