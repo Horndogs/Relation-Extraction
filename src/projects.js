@@ -13,4 +13,7 @@ import redux from './images/logos/redux.png'
 import sequelize from './images/logos/sequelize.png'
 import python from './images/logos/python.png'
 import jquery from './images/logos/jquery.png'
-import coinbase from './images/logo
+import coinbase from './images/logos/coinbase.png'
+
+class Projects extends Component {
+ 
