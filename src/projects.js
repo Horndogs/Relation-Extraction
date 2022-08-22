@@ -19,4 +19,4 @@ class Projects extends Component {
   render(){
     return(
       <div className='projects'>
-        <ProjectDisplay projectData={pro
+        <ProjectDisplay projectData={projects.codeMap} icons={[neo4j, node, express, r
