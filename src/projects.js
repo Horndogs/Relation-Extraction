@@ -20,4 +20,5 @@ class Projects extends Component {
     return(
       <div className='projects'>
         <ProjectDisplay projectData={projects.codeMap} icons={[neo4j, node, express, react, redux, html, css]}/>
-        <ProjectDisplay projectData={projects.stockTicker} icons={[react, html, css, coinba
+        <ProjectDisplay projectData={projects.stockTicker} icons={[react, html, css, coinbase]} />
+        <ProjectDisplay projectData={projects.c
