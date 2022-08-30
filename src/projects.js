@@ -23,4 +23,5 @@ class Projects extends Component {
         <ProjectDisplay projectData={projects.stockTicker} icons={[react, html, css, coinbase]} />
         <ProjectDisplay projectData={projects.candyCrushers} icons={[sequelize, node, express, react, redux, html, css]}/>
         <div className='projects displayBox'>
-          <p 
+          <p className='projectHeader'>Words in Motion</p>
+ 
