@@ -24,4 +24,4 @@ class Projects extends Component {
         <ProjectDisplay projectData={projects.candyCrushers} icons={[sequelize, node, express, react, redux, html, css]}/>
         <div className='projects displayBox'>
           <p className='projectHeader'>Words in Motion</p>
-          <a className='visit' href='http
+          <a className='visit' href='https://medium.com/@mewarrick/things-to-consider-when-us
