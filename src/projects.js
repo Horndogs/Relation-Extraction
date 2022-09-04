@@ -25,4 +25,4 @@ class Projects extends Component {
         <div className='projects displayBox'>
           <p className='projectHeader'>Words in Motion</p>
           <a className='visit' href='https://medium.com/@mewarrick/things-to-consider-when-using-css-animations-especially-with-react-b461f14e843f'>Read my Medium article on my experience</a>
-          <iframe width="350" height="197" src="https://www.
+          <iframe width="350" height="197" src="https://www.youtube.com/embed/4fVmH_u-8ic" frameBorder=
