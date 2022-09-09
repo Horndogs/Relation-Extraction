@@ -27,4 +27,4 @@ class Projects extends Component {
           <a className='visit' href='https://medium.com/@mewarrick/things-to-consider-when-using-css-animations-especially-with-react-b461f14e843f'>Read my Medium article on my experience</a>
           <iframe width="350" height="197" src="https://www.youtube.com/embed/4fVmH_u-8ic" frameBorder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <br/>
-          <iframe width="350" height="197" src="https://www.youtube.com/embed/kLjX4C3Tj-M" frameBorde
+          <iframe width="350" height="197" src="https://www.youtube.com/embed/kLjX4C3Tj-M" frameBorder="0" allow="autoplay; encrypted-media" allowfullscree
