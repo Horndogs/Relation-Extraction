@@ -29,4 +29,6 @@ class Projects extends Component {
           <br/>
           <iframe width="350" height="197" src="https://www.youtube.com/embed/kLjX4C3Tj-M" frameBorder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <span>
-            <p>{proje
+            <p>{projects.wordsInMotion.main}</p>
+          </span>
+         
