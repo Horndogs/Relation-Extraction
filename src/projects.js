@@ -31,4 +31,5 @@ class Projects extends Component {
           <span>
             <p>{projects.wordsInMotion.main}</p>
           </span>
-         
+          <Icons icons={[react, css, html]} />
+   
