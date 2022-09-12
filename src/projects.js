@@ -32,4 +32,5 @@ class Projects extends Component {
             <p>{projects.wordsInMotion.main}</p>
           </span>
           <Icons icons={[react, css, html]} />
-   
+        </div>
+        <ProjectDisplay projectData={p
