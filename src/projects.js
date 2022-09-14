@@ -34,4 +34,5 @@ class Projects extends Component {
           <Icons icons={[react, css, html]} />
         </div>
         <ProjectDisplay projectData={projects.personalSite} icons={[react, css, html]}/>
-        <d
+        <div className='projects displayBox'>
+        
