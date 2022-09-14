@@ -33,4 +33,5 @@ class Projects extends Component {
           </span>
           <Icons icons={[react, css, html]} />
         </div>
-        <ProjectDisplay projectData={p
+        <ProjectDisplay projectData={projects.personalSite} icons={[react, css, html]}/>
+        <d
