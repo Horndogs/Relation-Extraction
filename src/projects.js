@@ -35,4 +35,5 @@ class Projects extends Component {
         </div>
         <ProjectDisplay projectData={projects.personalSite} icons={[react, css, html]}/>
         <div className='projects displayBox'>
-        
+          <p className='projectHeader'>Fun Squares</p>
+     
