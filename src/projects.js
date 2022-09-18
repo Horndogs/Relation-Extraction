@@ -36,4 +36,5 @@ class Projects extends Component {
         <ProjectDisplay projectData={projects.personalSite} icons={[react, css, html]}/>
         <div className='projects displayBox'>
           <p className='projectHeader'>Fun Squares</p>
-     
+          <br/>
+          <iframe width="350" height="197" s
