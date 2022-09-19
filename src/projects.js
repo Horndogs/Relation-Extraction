@@ -37,4 +37,4 @@ class Projects extends Component {
         <div className='projects displayBox'>
           <p className='projectHeader'>Fun Squares</p>
           <br/>
-          <iframe width="350" height="197" s
+          <iframe width="350" height="197" src="https://www.youtube.com/embed/Fe4IPxnEVHs" frameB
