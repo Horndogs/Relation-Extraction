@@ -41,4 +41,6 @@ class Projects extends Component {
           <span>
             <p>{projects.funSquares.main}</p>
           </span>
-      
+          <Icons icons={[react]} />
+        </div>
+        <Proje
