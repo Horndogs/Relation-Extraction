@@ -43,4 +43,5 @@ class Projects extends Component {
           </span>
           <Icons icons={[react]} />
         </div>
-        <ProjectDisplay projectData={projects.gu
+        <ProjectDisplay projectData={projects.guessing} icons={[html, css, javascript, jquery]}/>
+      
