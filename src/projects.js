@@ -44,4 +44,9 @@ class Projects extends Component {
           <Icons icons={[react]} />
         </div>
         <ProjectDisplay projectData={projects.guessing} icons={[html, css, javascript, jquery]}/>
-        <ProjectDisplay projectData={projects.ma
+        <ProjectDisplay projectData={projects.mash} icons={[python]} />
+      </div>)
+  }
+}
+
+export defa
