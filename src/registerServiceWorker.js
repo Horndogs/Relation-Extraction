@@ -1,3 +1,3 @@
 // In production, we register a service worker to serve assets from local cache.
 
-// This l
+// This lets the app load faster on subsequent visits in prod
