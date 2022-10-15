@@ -5,4 +5,5 @@
 // will only see deployed updates on the "N+1" visit to a page, since previously
 // cached resources are updated in the background.
 
-// To learn more about the benefits of this mod
+// To learn more about the benefits of this model, read https://goo.gl/KwvDNy.
+// This link also includes in
