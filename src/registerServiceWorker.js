@@ -9,4 +9,5 @@
 // This link also includes instructions on opting out of this behavior.
 
 const isLocalhost = Boolean(
-  window.locati
+  window.location.hostname === 'localhost' ||
+    // [::1
