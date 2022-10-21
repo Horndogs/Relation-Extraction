@@ -11,4 +11,5 @@
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
     // [::1] is the IPv6 localhost address.
-    window.loca
+    window.location.hostname === '[::1]' ||
+    // 127.0.0.1/8
