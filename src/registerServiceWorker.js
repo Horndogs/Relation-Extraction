@@ -18,4 +18,5 @@ const isLocalhost = Boolean(
     )
 );
 
-export 
+export default function register() {
+  if (process
