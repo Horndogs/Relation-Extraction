@@ -19,4 +19,4 @@ const isLocalhost = Boolean(
 );
 
 export default function register() {
-  if (process
+  if (process.env.NODE_ENV === 'production' && 'serviceWorke
