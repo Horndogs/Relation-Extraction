@@ -29,4 +29,5 @@ export default function register() {
       return;
     }
 
-    window.addEventList
+    window.addEventListener('load', () => {
+      const swUrl
