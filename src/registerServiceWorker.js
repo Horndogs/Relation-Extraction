@@ -37,4 +37,5 @@ export default function register() {
         checkValidServiceWorker(swUrl);
 
         // Add some additional logging to localhost, pointing developers to the
-        // service worker/
+        // service worker/PWA documentation.
+        navigator.serviceWorker.ready.the
