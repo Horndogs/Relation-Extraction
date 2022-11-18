@@ -38,4 +38,6 @@ export default function register() {
 
         // Add some additional logging to localhost, pointing developers to the
         // service worker/PWA documentation.
-        navigator.serviceWorker.ready.the
+        navigator.serviceWorker.ready.then(() => {
+          console.log(
+            '
