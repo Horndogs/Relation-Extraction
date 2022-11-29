@@ -52,4 +52,6 @@ export default function register() {
   }
 }
 
-function registerVa
+function registerValidSW(swUrl) {
+  navigator.serviceWorker
+    .registe
