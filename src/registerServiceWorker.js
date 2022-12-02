@@ -54,4 +54,6 @@ export default function register() {
 
 function registerValidSW(swUrl) {
   navigator.serviceWorker
-    .registe
+    .register(swUrl)
+    .then(registration => {
+      registration.onupdatef
