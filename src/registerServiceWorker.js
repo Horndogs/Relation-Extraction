@@ -58,4 +58,5 @@ function registerValidSW(swUrl) {
     .then(registration => {
       registration.onupdatefound = () => {
         const installingWorker = registration.installing;
-        installingWorker.onsta
+        installingWorker.onstatechange = () => {
+          if (installingWorke
