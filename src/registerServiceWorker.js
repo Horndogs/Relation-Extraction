@@ -60,4 +60,5 @@ function registerValidSW(swUrl) {
         const installingWorker = registration.installing;
         installingWorker.onstatechange = () => {
           if (installingWorker.state === 'installed') {
-            if (navigator.
+            if (navigator.serviceWorker.controller) {
+              // At this point, 
