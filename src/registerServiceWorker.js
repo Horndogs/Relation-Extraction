@@ -62,4 +62,5 @@ function registerValidSW(swUrl) {
           if (installingWorker.state === 'installed') {
             if (navigator.serviceWorker.controller) {
               // At this point, the old content will have been purged and
-              // the fresh content will have b
+              // the fresh content will have been added to the cache.
+              // It's the per
