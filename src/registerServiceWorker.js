@@ -61,4 +61,5 @@ function registerValidSW(swUrl) {
         installingWorker.onstatechange = () => {
           if (installingWorker.state === 'installed') {
             if (navigator.serviceWorker.controller) {
-              // At this point, the old content will have been p
+              // At this point, the old content will have been purged and
+              // the fresh content will have b
