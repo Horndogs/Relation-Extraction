@@ -67,4 +67,5 @@ function registerValidSW(swUrl) {
               // available; please refresh." message in your web app.
               console.log('New content is available; please refresh.');
             } else {
-              // At this
+              // At this point, everything has been precached.
+      
