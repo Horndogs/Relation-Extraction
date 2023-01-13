@@ -73,4 +73,8 @@ function registerValidSW(swUrl) {
               console.log('Content is cached for offline use.');
             }
           }
-        }
+        };
+      };
+    })
+    .catch(error => {
+      console.erro
