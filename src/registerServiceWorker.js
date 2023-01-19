@@ -81,4 +81,5 @@ function registerValidSW(swUrl) {
     });
 }
 
-function checkValidServiceWorker(swU
+function checkValidServiceWorker(swUrl) {
+  // Check if the service worker can be foun
