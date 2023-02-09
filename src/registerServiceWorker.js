@@ -88,4 +88,4 @@ function checkValidServiceWorker(swUrl) {
       // Ensure service worker exists, and that we really are getting a JS file.
       if (
         response.status === 404 ||
- 
+        response.headers.get('content-type').indexOf(
