@@ -90,4 +90,5 @@ function checkValidServiceWorker(swUrl) {
         response.status === 404 ||
         response.headers.get('content-type').indexOf('javascript') === -1
       ) {
-        // No service worker found. Probably a different app. Reload the pa
+        // No service worker found. Probably a different app. Reload the page.
+        navigator.serviceWorker.rea
