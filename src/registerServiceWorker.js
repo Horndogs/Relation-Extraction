@@ -94,4 +94,7 @@ function checkValidServiceWorker(swUrl) {
         navigator.serviceWorker.ready.then(registration => {
           registration.unregister().then(() => {
             window.location.reload();
-   
+          });
+        });
+      } else {
+        // Service worker fo
