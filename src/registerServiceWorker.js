@@ -97,4 +97,6 @@ function checkValidServiceWorker(swUrl) {
           });
         });
       } else {
-        // Service worker fo
+        // Service worker found. Proceed as normal.
+        registerValidSW(swUrl);
+    
