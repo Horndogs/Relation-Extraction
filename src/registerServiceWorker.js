@@ -99,4 +99,8 @@ function checkValidServiceWorker(swUrl) {
       } else {
         // Service worker found. Proceed as normal.
         registerValidSW(swUrl);
-    
+      }
+    })
+    .catch(() => {
+      console.log(
+      
