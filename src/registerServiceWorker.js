@@ -108,4 +108,5 @@ function checkValidServiceWorker(swUrl) {
     });
 }
 
-export function
+export function unregister() {
+  if ('serviceWorker' in navigator) {
